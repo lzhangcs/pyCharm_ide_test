@@ -4,7 +4,7 @@
 # First subarray is arr[l..m]
 # Second subarray is arr[m+1..r]
 
-# ide pycharm hi
+# hello IC lab
  
 def merge(arr, l, m, r):
     n1 = m - l + 1
